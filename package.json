@@ -1,0 +1,15 @@
+{
+  "name": "schemav2_smaller_converter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Lalor",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "split": "~0.2.10",
+    "through": "~2.3.4"
+  }
+}
